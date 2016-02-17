@@ -2,12 +2,25 @@
   width: 300px;
   padding: 15px;
   margin: 10px;
+  box-sizing: border-box;
+  float: left;
 }
 #testDiv2 {
-  width: 300px;
+  width: 450px;
   padding: 15px;
   margin: 10px;
+  box-sizing: border-box;
+  float: left;
 }
+
+#testDiv3 {
+  width: 450px;
+  padding: 15px;
+  margin: 10px;
+  box-sizing: border-box;
+  float: left;
+}
+
 #container {
-  width: 1200;
+  width: 100%;
 }

@@ -1,0 +1,9 @@
+350
+Border-box made the div more narrow. Decreased from 350 to around 310.
+the get placed next to each other instead of stacked and move to the right hand side of the page
+They switch places and move the left side of the page.
+They remain in the same spot, and one of them gets cut off when you downsize the page.
+div 1 moves to the right and div 2 moves to the left
+div 1 extends over the whole page which causes div 2 to be shifted below it
+
+now when i resize the browser, the two divs are still visible side by side no matter how small it is.
